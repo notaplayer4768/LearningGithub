@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         val y = 20
         val z = 30
         val x = y+z
+        val words =  "are you going to finish that croissant"
     }
 }
